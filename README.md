@@ -3,6 +3,16 @@
  Authors: **Han Van Nguyen, Magnus O. Ulfarsson, Jakob Sigurdsson, and Johannes R. Sveinsson** <br>
  Faculty of Electrical and Computer Engineering, University of Iceland, Reykjavik, Iceland<br>
  Email: hvn2@hi.is
+
+ **Please cite our paper if you are interested**<br>
+ @inproceedings{nguyen2022deep,
+  title={Deep Sparse and Low-Rank Prior for Hyperspectral Image Denoising},
+  author={Nguyen, Han V and Ulfarsson, Magnus O and Sigurdsson, Jakob and Sveinsson, Johannes R},
+  booktitle={IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={1217--1220},
+  year={2022},
+  organization={IEEE}
+}
  <br>
  <br>
 ## Abstract:<br>
