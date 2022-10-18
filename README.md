@@ -1,5 +1,5 @@
 # DIP-SLR
- Pyorch codes for the paper "Deep sparse and low-rank for hyperspectral denoising", accepted in the IGARSS 2022, Kuala Lumpur, July 2022.<br>
+ Pyorch codes for the paper "Deep sparse and low-rank for hyperspectral denoising", in Proceeding of IGARSS 2022, Kuala Lumpur, July 2022.<br>
  Authors: **Han Van Nguyen, Magnus O. Ulfarsson, Jakob Sigurdsson, and Johannes R. Sveinsson** <br>
  Faculty of Electrical and Computer Engineering, University of Iceland, Reykjavik, Iceland<br>
  Email: hvn2@hi.is
